@@ -1,0 +1,1 @@
+TimingFramework-1.0 is an animation library which i have scarcely used in my project for some simple animations. Maybe in the future i would remove dependency of this library in my project, but for now it's needed for a project to run.
